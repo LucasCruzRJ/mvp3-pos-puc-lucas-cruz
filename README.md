@@ -2,10 +2,10 @@
 
 Trabalho final da pós-graduação em Data Science & Analytics — PUC-Rio.
 
-**Autor:** Lucas Villar Magalhães da Cruz
-**Matrícula:** 4052025002504
-**Plataforma:** Databricks Free Edition
-**Dataset:** Brazilian E-Commerce Public Dataset by Olist (Kaggle)
+**Autor:** Lucas Villar Magalhães da Cruz  
+**Matrícula:** 4052025002504  
+**Plataforma:** Databricks Free Edition  
+**Dataset:** Brazilian E-Commerce Public Dataset by Olist (Kaggle)  
 
 ---
 
